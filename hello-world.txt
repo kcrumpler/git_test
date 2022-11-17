@@ -1,0 +1,2 @@
+This is a lot of fun!
+I am learning to use Git and GitHub!
